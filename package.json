@@ -1,0 +1,16 @@
+{
+    "name": "html-encryptor",
+    "version": "1.0.0",
+    "description": "A tool to encrypt HTML content to prevent web scraping, with runtime decryption for browsers.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node html_encryptor.js"
+    },
+    "keywords": [
+      "html", "encryption", "web-scraping", "security", "javascript"
+    ],
+    "author": "Yashas Singh",
+    "license": "MIT",
+    "dependencies": {}
+  }
+  
